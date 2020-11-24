@@ -1,0 +1,6 @@
+print("Tom is working hard..........")
+print("Tom is working hard..........")
+print("Tom is working hard..........")
+print("Tom is working hard..........")
+print("Tom is working hard..........")
+print("Tom is working hard..........")
